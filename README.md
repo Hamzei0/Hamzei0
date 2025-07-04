@@ -35,15 +35,18 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ## 📫 How to Reach Me:
 
-[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzei8434@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
-[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
+
+[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
 
 - ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username)
-[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzei8434@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
+[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
+
 ---
 
 ## 🎯 A Few Things About Me:
