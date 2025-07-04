@@ -35,10 +35,18 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ## 📫 How to Reach Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-C3F0CA?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
-[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FDF5E6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FFE4E1?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-90EE90?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
+[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FFB6C1?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
+
+[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFFACD?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
+
+
+- 🌐 Socials
+
+- 📧 Email: hamzei8434@gmail.com
+- 💼 linkedin: https://de.linkedin.com/in/mahdi-hamzei-6a0978235
+- 📸 instagram: https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw
 
 ---
 
