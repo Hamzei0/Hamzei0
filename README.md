@@ -35,17 +35,17 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ## 📫 How to Reach Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-7EC8E3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
 
-[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FDE68A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
+[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FBB6CE?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
 
 - ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
-[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
+[![Email](https://img.shields.io/badge/Email-hamzei8434@gmail.com-FFE4B5?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hamzei8434@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--hamzei--6a0978235-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mahdi-hamzei-6a0978235/)
+[![Instagram](https://img.shields.io/badge/Instagram-master._.key._-FFDAB9?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/master._.key._?igsh=a3h6OHpoa2pudGVw)
 
 ---
 
