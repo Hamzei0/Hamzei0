@@ -30,6 +30,7 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ## 📈 My GitHub Stats:
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzei0&show_icons=true&theme=radical)
 
 ---
 
