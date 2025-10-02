@@ -16,8 +16,6 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF7F50?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-40A9F3?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-BA55D3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-FFB347?style=for-the-badge&logo=react&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-8FBC8F?style=for-the-badge&logo=django&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-FD8D14?style=for-the-badge&logo=git&logoColor=white)
