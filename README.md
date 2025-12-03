@@ -20,6 +20,8 @@ I'm Mahdi – a developer who loves creating, experimenting, and learning!
 
 ![Git](https://img.shields.io/badge/Git-FD8D14?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-005B99?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-0277BD?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-3C99DC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
