@@ -4,7 +4,15 @@
 
 ### Python Developer • Computer Vision Enthusiast • Linux User
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3BA55D&center=true&vCenter=true&width=600&lines=Python+Developer;Computer+Vision+Enthusiast;Linux+User;Open+Source+Learner;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Vision+Enthusiast;Linux+User;Open+Source+Learner;Always+Learning+Something+New" />
+
+<br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Hamzei0&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Hamzei0?label=Followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/Hamzei0?affiliations=OWNER&style=flat&color=yellow" />
+</p>
 
 </div>
 
@@ -12,21 +20,20 @@
 
 # 🚀 About Me
 
-I'm a Python developer who enjoys solving problems and building useful software.
+💻 I'm a Python developer who enjoys solving real-world problems through code.
 
-I'm particularly interested in **Computer Vision**, **Image Processing**, and creating practical applications using Python.
+🎯 My main interests include:
 
-* 🐍 Python Developer
-* 👁️ Interested in Computer Vision & Image Processing
-* 🐧 Linux User
-* 🐳 Docker Enthusiast
-* 🌱 Currently learning Deep Learning and AI
-* 💡 I enjoy learning new technologies and experimenting with new ideas
-* ❤️ Open Source enthusiast
+- 🐍 Python Development
+- 👁️ Computer Vision & Image Processing
+- 🐧 Linux
+- 🐳 Docker
+- 🤖 Artificial Intelligence
+- 🌱 Continuous Learning
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -37,50 +44,38 @@ I'm particularly interested in **Computer Vision**, **Image Processing**, and cr
 ### Computer Vision
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### Operating System
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-> Comfortable with Basic SQL, CRUD Operations, JOINs and Database Design.
+> **Experience:** Basic SQL • CRUD • JOINs • Database Design
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
-# 📂 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-* 📷 Computer Vision Projects
-* 🤖 Python Automation Scripts
-* 🐧 Linux Utilities
-* 📊 Image Processing Applications
-* 🧠 AI & Deep Learning Experiments
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamzei0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzei0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,33 +85,43 @@ Here are some of the projects I'm proud of:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Hamzei0&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzei0&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🎯 Currently Learning
+# 🌱 Currently Learning
 
-* Deep Learning
-* Computer Vision
-* Linux Administration
-* PostgreSQL
-* Machine Learning
+- Deep Learning
+- Advanced OpenCV
+- Linux Administration
+- PostgreSQL
+- Machine Learning
 
 ---
 
-# 📫 Connect with Me
+# 📂 Featured Interests
+
+- 📷 Image Processing
+- 🤖 AI Applications
+- 🐧 Linux Tools
+- 🧠 Automation
+- 🚀 Open Source Projects
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -138,10 +143,10 @@ Here are some of the projects I'm proud of:
 
 <div align="center">
 
-### 💭 Favorite Quote
+### 💬 Quote
 
-> *"Code. Learn. Build. Repeat."*
+> **"Code. Learn. Build. Repeat."**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+⭐ Thanks for visiting my profile!
 
 </div>
