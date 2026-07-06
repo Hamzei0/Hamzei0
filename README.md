@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # 👋 Hi, I'm Mahdi Hamzei
 
@@ -150,3 +150,4 @@
 ⭐ Thanks for visiting my profile!
 
 </div>
+](https://streak-stats.demolab.com?user=Hamzei0)
